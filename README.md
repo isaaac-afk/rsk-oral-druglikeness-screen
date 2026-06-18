@@ -1,7 +1,7 @@
 # RSK & Oral Kinase Inhibitor Druglikeness Screen
 
-A cheminformatics tool that evaluates 20 FDA-approved **oral kinase
-inhibitors** used in cancer therapy against **Lipinski's Rule of Five** — the
+A cheminformatics tool that evaluates 20 FDA-approved oral kinase
+inhibitors used in cancer therapy against **Lipinski's Rule of Five** — the
 standard medicinal chemistry filter for predicting oral bioavailability.
 
 ## Motivation
