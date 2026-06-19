@@ -68,5 +68,5 @@ oral therapies.
 
 Author
 
-Isaac Glenu — Systems Design Engineering / Biomedical Engineering, University of Waterloo  
+Isaac Glenu — Biomedical Engineering / Systems Design Engineerin, University of Waterloo  
 [github.com/isaaac-afk](https://github.com/isaaac-afk)
