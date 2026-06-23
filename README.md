@@ -66,7 +66,7 @@ oral therapies.
   in property space
 - A PAINS / structural-alert filter would catch reactive false positives
 
-Author
+
 
 Isaac Glenu — Biomedical Engineering / Systems Design Engineerin, University of Waterloo  
 [github.com/isaaac-afk](https://github.com/isaaac-afk)
