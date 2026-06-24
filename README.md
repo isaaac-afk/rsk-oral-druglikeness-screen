@@ -16,7 +16,7 @@ compound is likely to be orally bioavailable:
 - Hydrogen-bond donors ≤ 5
 - Hydrogen-bond acceptors ≤ 10
 
-This project computes these descriptors using **RDKit**, flags compliance,
+This project computes these descriptors using RDKit, flags compliance,
 and visualizes the chemical space of approved oral oncology kinase inhibitors.
 
 ## What it does
