@@ -19,7 +19,6 @@ This project computes these descriptors using RDKit, flags compliance,
 and visualizes the chemical space of approved oral oncology kinase inhibitors.
 
 ## What it does
-
 - Parses SMILES strings for 20 approved oral kinase inhibitors
 - Computes MW, LogP, HBD, HBA via `rdkit.Chem.Descriptors`
 - Flags RO5 violations and strict pass/fail
