@@ -26,7 +26,6 @@ and visualizes the chemical space of approved oral oncology kinase inhibitors.
 - Plots MW vs LogP with reference lines at the RO5 thresholds
 
 ## Setup
-
 ```bash
 git clone https://github.com/isaaac-afk/rsk-oral-druglikeness-screen.git
 cd rsk-oral-druglikeness-screen
