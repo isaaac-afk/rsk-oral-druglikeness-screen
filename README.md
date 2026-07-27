@@ -5,7 +5,6 @@ inhibitors used in cancer therapy against Lipinski's Rule of Five  the
 standard medicinal chemistry filter for predicting oral bioavailability.
 
 ## Motivation
-
 Oral small-molecule kinase inhibitors (e.g. imatinib, palbociclib, osimertinib)
 have transformed targeted cancer therapy. Lipinski's Rule of Five (RO5) is the
 classic heuristic used in early-stage drug discovery to predict whether a
