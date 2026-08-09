@@ -42,7 +42,6 @@ Outputs:
 - `lipinski_plot.png` — MW vs LogP scatter plot
 
 ## Results
-
 ![Lipinski plot](lipinski_plot.png)
 
 A substantial fraction of approved oral kinase inhibitors in this set sit at
