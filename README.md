@@ -33,7 +33,6 @@ pip install -r requirements.txt
 ```
 
 ## Usage
-
 ```bash
 python druglikeness_screen.py
 ```
