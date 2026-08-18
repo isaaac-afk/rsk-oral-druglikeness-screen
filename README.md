@@ -38,7 +38,7 @@ python druglikeness_screen.py
 ```
 Outputs:
 - `lipinski_results.csv` full descriptor table
-- `lipinski_plot.png` — MW vs LogP scatter plot
+- `lipinski_plot.png` MW vs LogP scatter plot
 
 ## Results
 ![Lipinski plot](lipinski_plot.png)
